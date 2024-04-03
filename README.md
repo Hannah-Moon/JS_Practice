@@ -24,6 +24,9 @@ Together, we embarked on a collaborative journey, dissecting each error with sur
 
 In the end, it was not just about fixing lines of code or resolving technical glitches; it was a testament to the power of camaraderie and the profound impact of genuine human connection in the face of adversity. As I finally pushed my code with renewed confidence, I couldn't help but feel an overwhelming sense of gratitude for the invaluable support of El and Bryan. Their unwavering dedication not only salvaged my project but also fortified our bond as collaborators and friends. These two are the links I can refer to for any similar problems I would encounter.  
 
-https://docs.github.com/en/get-started/getting-started-with-git/updating-credentials-from-the-macos-keychain
-https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+<a href="https://docs.github.com/en/get-started/getting-started-with-git/updating-credentials-from-the-macos-keychain">Updating credentials from the macOS Keychain</a>
+
+<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">Managing your personal access tokens</a>
+
+
 
