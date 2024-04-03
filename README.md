@@ -22,7 +22,11 @@ With their expertise and support, they became the indispensable pillars upon whi
 
 Together, we embarked on a collaborative journey, dissecting each error with surgical precision and methodically troubleshooting every nuance of the code. Through relentless perseverance and a shared commitment to excellence, we navigated through the labyrinth of bugs and glitches that had ensnared my repository.
 
-In the end, it was not just about fixing lines of code or resolving technical glitches; it was a testament to the power of camaraderie and the profound impact of genuine human connection in the face of adversity. As I finally pushed my code with renewed confidence, I couldn't help but feel an overwhelming sense of gratitude for the invaluable support of El and Bryan. Their unwavering dedication not only salvaged my project but also fortified our bond as collaborators and friends. These two are the links I can refer to for any similar problems I would encounter.  
+In the end, it was not just about fixing lines of code or resolving technical glitches; it was a testament to the power of camaraderie and the profound impact of genuine human connection in the face of adversity. As I finally pushed my code with renewed confidence, I couldn't help but feel an overwhelming sense of gratitude for the invaluable support of El and Bryan. Their unwavering dedication not only salvaged my project but also fortified our bond as collaborators and friends. 
+
+## Reference links to tackle the issue
+
+These two are the links I can refer to for any similar problems I would encounter.  
 
 <a href="https://docs.github.com/en/get-started/getting-started-with-git/updating-credentials-from-the-macos-keychain">Updating credentials from the macOS Keychain</a>
 
